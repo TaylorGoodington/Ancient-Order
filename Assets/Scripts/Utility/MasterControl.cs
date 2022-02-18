@@ -128,6 +128,8 @@ public class MasterControl : MonoBehaviour
         //at this point the initialization should be complete. I don't want to leave programming on the stack as I wait for user input
         //I will have to develop a system where whenever an event intersects a process, the event handler will be able to tell someone
         //like mastercontrol to continue, then that controller would know which function to continue calling...
+        //just doing some testing with this line and source control
+
     }
 
     public float GetPlayerTeamEchelonDegreeNumber ()
